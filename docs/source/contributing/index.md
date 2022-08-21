@@ -115,4 +115,5 @@ release_checklist
 :caption: In depth explanations
 
 versioning_schemes_explanation
+about_pymc_examples
 :::

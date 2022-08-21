@@ -1,3 +1,4 @@
+(about_versioning)=
 # PyMC websites versioning
 
 The PyMC project has 3 main websites related directly to the
@@ -40,6 +41,7 @@ we tag on GitHub and that goes to PyPI is used to generate the docs.
 Therefore, even if the `latest` version is updated with every commit,
 the default website `stable` is only updated when a new release is published.
 
+(about_versioning/examples)=
 ## Example gallery: `www.pymc.io/projects/examples`
 We publish the example gallery at: `www.docs.pymc.io/projects/examples`
 plus the language and snapshot indicator, by default `/en/latest/`.
