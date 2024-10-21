@@ -606,8 +606,11 @@ Role:
   [Community Team](https://discourse.pymc.io/g/Community_Team) group.
 
 #### Accounts and services ownership and administration
-The PyMC Project also has accounts and hosts services on several platforms
-such as GitHub, Discourse, PyPI, Twitter, ReadTheDocs, or Medium.
+The PyMC Project also has accounts and hosts services on several platforms.
+Some examples of such platforms include (but are not limited to) 
+GitHub, Discourse, PyPI, Discord, Twitter, ReadTheDocs, or Medium.
+Any service under the PyMC project should follow these rules,
+even if not explicitly listed above as an example.
 
 If possible, all Council Members and relevant Core Contributors should have
 administrative rights on those platforms. [SPEC 6](https://scientific-python.org/specs/spec-0006/)
